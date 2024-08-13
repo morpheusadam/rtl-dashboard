@@ -42,8 +42,6 @@
 - ✅ و بیشتر
 
 ### تصاویر
-
-![screenshots/25.jpg](https://github.com/morpheusadam/rtl-dashboard/blob/main/public/images/screenshots/1.png)
 ![screenshots/18.jpg](https://github.com/morpheusadam/rtl-dashboard/blob/main/public/images/screenshots/2.png)
 ![screenshots/19.jpg](https://github.com/morpheusadam/rtl-dashboard/blob/main/public/images/screenshots/3.png)
 ![screenshots/20.jpg](https://github.com/morpheusadam/rtl-dashboard/blob/main/public/images/screenshots/4.png)
