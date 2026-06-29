@@ -1,319 +1,198 @@
-# مزایای داشبورد
+<div align="center">
 
-- ✅ بهینه‌سازی خودکار و هوشمند برای سئو
-- ✅ آماده برای نمایش اعلان‌ها با تصاویر
-- ✅ نمایش اعلان‌ها به صورت زیبا
-- ✅ نمایش خطاها به صورت لحظه‌ای و خودکار
-- ✅ روش حرفه‌ای برای نمایش تصاویر
-- ✅ پشتیبانی از کشیدن و رها کردن
-- ✅ اعلان‌ها در زمان واقعی
-- ✅ آیکون‌های پولی به صورت رایگان
-- ✅ بهترین و زیباترین فونت‌های عربی
-- ✅ تنظیمات آماده برای Robots
-- ✅ تولید کننده خودکار SiteMap
-- ✅ آماده برای تبدیل به اپلیکیشن موبایل
-- ✅ تمامی صفحات اساسی و بیشتر
-- ✅ آمارهای عالی در داشبورد
-- ✅ امکان ایجاد منوها و تعیین مکان‌های آن‌ها
-- ✅ امکان مرتب‌سازی لینک‌ها در منوها
-- ✅ امکان ایجاد صفحات سفارشی
-- ✅ سیستم تبلیغات آماده
-- ✅ وبلاگ کامل با بخش‌ها، مقالات و ...
-- ✅ سیستم تغییر مسیر لینک‌ها
-- ✅ کاملاً فارسی!
-- ✅ ویرایشگر زیبا با امکان آپلود تصاویر
-- ✅ سیستم کاربران با تصاویر
-- ✅ کاملاً واکنش‌گرا
-- ✅ استفاده از آخرین نسخه Laravel
-- ✅ استفاده از آخرین نسخه Bootstrap
-- ✅ اعلان‌ها در زمان واقعی
-- ✅ ردیاب خطای هوشمند
-- ✅ سیستم ردیابی جامع
-- ✅ افزودن محدودیت‌های بازدید برای افزایش امنیت
-- ✅ صفحات 404 سفارشی
-- ✅ صفحات ورود و ثبت‌نام و غیره
-- ✅ سیستم تنظیمات سایت
-- ✅ آماده برای ادغام با Cloudflare
-- ✅ سیستم پیگیری هوشمند
-- ✅ سیستم مجوزهای پیشرفته
-- ✅ همراه با الگوهایی برای ساخت صفحات
-- ✅ سیستم تیکت برای ارتباط با ما
-- ✅ سیستم Plugins آماده برای افزودن بیشتر
-- ✅ و بیشتر
+# 📊 RTL Dashboard
 
-### تصاویر
-![screenshots/18.jpg](https://github.com/morpheusadam/rtl-dashboard/blob/main/public/images/screenshots/2.png)
-![screenshots/19.jpg](https://github.com/morpheusadam/rtl-dashboard/blob/main/public/images/screenshots/3.png)
-![screenshots/20.jpg](https://github.com/morpheusadam/rtl-dashboard/blob/main/public/images/screenshots/4.png)
-![screenshots/24.jpg](https://github.com/morpheusadam/rtl-dashboard/blob/main/public/images/screenshots/5.png)
-![screenshots/6.jpg](https://github.com/morpheusadam/rtl-dashboard/blob/main/public/images/screenshots/6.png)
+### A fully responsive, feature-rich Laravel admin dashboard built for right-to-left (RTL) languages — Arabic, Persian, and Hebrew.
 
+<p>
+  <img src="https://img.shields.io/github/license/morpheusadam/rtl-dashboard?style=for-the-badge&color=4c1" alt="License" />
+  <img src="https://img.shields.io/github/stars/morpheusadam/rtl-dashboard?style=for-the-badge&color=ffca28" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/morpheusadam/rtl-dashboard?style=for-the-badge&color=42a5f5" alt="Forks" />
+  <img src="https://img.shields.io/github/last-commit/morpheusadam/rtl-dashboard?style=for-the-badge&color=8e44ad" alt="Last commit" />
+  <img src="https://img.shields.io/github/repo-size/morpheusadam/rtl-dashboard?style=for-the-badge&color=e67e22" alt="Repo size" />
+</p>
 
-<!-- - ✅ Auto & Smart Seo
-- ✅ Optimized Notifications With Images
-- ✅ Smart Alerts
-- ✅ Auto Js Validations
-- ✅ Front End Alert
-- ✅ Nice Image Viewing FancyBox
-- ✅ Drag And drop Feature
-- ✅ Fully Arabic 😀
-- ✅ Smart Editor With Upload Images
-- ✅ Select from Already uploaded Files
-- ✅ Fully Profile System With Avatars ( Can Resize Avatar )
-- ✅ Fully Responsive
-- ✅ Intervally Getting Notifcations Out Of The Box
-- ✅ FontAwesome PRO 💥 + ResponsiveFonts + Noto Sans Arabic fonts Included
-- ✅ Robots.txt , SiteMapGenerator , manifest.json
-- ✅ General Statistics On Home Page ( Traffic , New Users , Top Pages , Top Browsers , Top Devices , Top OSs , Top Ips , Top Users , and so on ... )
-- ✅ basic pages ( contact , articles , privacy , terms , about , categories , redirections )
-- ✅ You can Create Menus With Links ( can change order by Drag And drop )
-- ✅ Ability to Create custom pages
-- ✅ Smart Error Listeners
-- ✅ Smart Traffic tracker
-- ✅ RateLimit Plugin
-- ✅ Custom 404 Page
-- ✅ Nice Login , Register and Confirm Email Pages
-- ✅ Most Common Settings
-- ✅ Ready to integrate CloudFlare Firewall
-- ✅ Smart Logging System -->
+<p>
+  <img src="https://img.shields.io/badge/PHP-8.2+-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-11-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Livewire-3-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
+  <img src="https://img.shields.io/badge/Bootstrap-RTL-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap RTL" />
+  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
-### installation guide
+</div>
 
+---
+
+## 📖 Overview
+
+**RTL Dashboard** is a fully responsive, feature-rich **admin dashboard template** designed specifically for **right-to-left (RTL) languages**. Built on the latest **Laravel 11** and **Livewire**, it delivers a seamless, intuitive experience for users who prefer RTL layouts — making it an ideal foundation for **Arabic, Persian, Hebrew**, and other RTL-language applications.
+
+Beyond the polished UI, it ships with a complete back end: a full blog with articles, categories and comments, a menu builder, custom pages, an advertising system, a support-ticket system, smart traffic and error tracking, and a modular plugin architecture (powered by `nwidart/laravel-modules`). Role and permission management (Spatie), media handling, multi-language content, and API documentation via Swagger come built in.
+
+It is perfect for **developers, agencies, and SaaS builders** who need a production-ready, RTL-first dashboard with statistics, notifications, and a clean, extensible structure.
+
+> 🔎 **Keywords:** rtl dashboard, laravel admin panel, rtl admin template, persian dashboard, arabic dashboard, laravel 11 dashboard, livewire admin, responsive admin template, rtl ui, php dashboard.
+
+---
+
+## ✨ Features
+
+- 🌐 **RTL-first design** — fully responsive layouts tailored for Arabic, Persian, and Hebrew.
+- 🔍 **Smart SEO** — automatic SEO optimization, `robots.txt`, and a sitemap generator.
+- 🔔 **Real-time notifications & alerts** — rich notifications with images, plus instant, automatic error alerts.
+- 🖼️ **Media management** — professional image handling with drag-and-drop uploads (Spatie Media Library).
+- 🧩 **Menu & page builder** — create menus, order links by drag-and-drop, and build custom pages from templates.
+- 📰 **Full blog** — articles, categories, comments, and tags.
+- 📣 **Advertising system** — built-in ad placements.
+- 🎫 **Support tickets** — a contact/ticketing system for user communication.
+- 📈 **Dashboard analytics** — traffic, top pages, browsers, devices, operating systems, and more.
+- 🔗 **Link redirection** — manage and track redirects.
+- 🛡️ **Security** — advanced permissions, rate limiting, custom 404 pages, and Cloudflare-ready setup.
+- 👥 **User system** — profiles with avatars, login, registration, and email confirmation.
+- ⚙️ **Site settings** — central configuration for the whole application.
+- 🌍 **Multi-language content** — translatable models via Spatie Translatable.
+- 📱 **PWA-ready** — `manifest.json` for installable mobile experiences.
+- 🔌 **Plugin & module system** — extend functionality with self-contained modules.
+- 📚 **API docs** — interactive documentation via L5-Swagger.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,bootstrap,js" alt="Tech stack" />
+</p>
+
+| Layer | Technology |
+| --- | --- |
+| Framework | Laravel 11 (PHP 8.2+) |
+| UI | Livewire 3, Bootstrap (RTL), Blade |
+| Modules | `nwidart/laravel-modules` |
+| Permissions | `spatie/laravel-permission` |
+| Media | `spatie/laravel-medialibrary`, Intervention Image |
+| i18n | `spatie/laravel-translatable` |
+| Notifications | Toastr |
+| Geolocation | `stevebauman/location` |
+| API Docs | L5-Swagger |
+
+---
+
+## 🖼️ Screenshots
+
+<p align="center">
+  <img src="public/images/screenshots/1.png" width="45%" alt="RTL Dashboard screenshot" />
+  <img src="public/images/screenshots/2.png" width="45%" alt="RTL Dashboard screenshot" />
+</p>
+<p align="center">
+  <img src="public/images/screenshots/3.png" width="45%" alt="RTL Dashboard screenshot" />
+  <img src="public/images/screenshots/4.png" width="45%" alt="RTL Dashboard screenshot" />
+</p>
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- **PHP 8.2+**
+- **Composer**
+- **MySQL** (or another supported database)
+- **php-imagick** extension
+
+### Installation
 
 ```bash
-#dont forget to install 
+# Install the image extension (Debian/Ubuntu)
 sudo apt-get install php-imagick
+
+# Install PHP dependencies
 composer install
-# copy .env.example to .env
+
+# Configure your environment
 cp .env.example .env
-# generate security key , link storage file
 php artisan key:generate
 php artisan storage:link
-# after connect your database via .env file
+
+# After setting your database credentials in .env
 php artisan migrate:fresh
 php artisan db:seed
 
-# dont forget to start queuing and run schedule on the background 
-php artisan queue:work && php artisan schedule:run 
+# Run the queue worker and scheduler in the background
+php artisan queue:work
+php artisan schedule:run
 ```
 
-### Credentials
+### Default Credentials
 
-```
-login page : <http://127.0.0.1:8000/login>
-email : admin@admin.com
-password : password
+| Field | Value |
+| --- | --- |
+| Login URL | `http://127.0.0.1:8000/login` |
+| Email | `admin@admin.com` |
+| Password | `password` |
 
-```
+---
 
-### Main Yield Sections
+## ⚙️ Layout Sections
 
-```jsx
+Blade layouts expose the following yield points for easy extension:
+
+```blade
 @yield('styles')
 @yield('content')
 @yield('after-body')
 @yield('scripts')
 ```
 
-### Notifications On Response
+---
 
-```jsx
-// docs : https://github.com/mckenziearts/laravel-notify
+## 🗂️ Project Structure
 
-notify()->info('content','title');
-
-notify()->success('content','title');
-
-notify()->error('content','title');
+```text
+rtl-dashboard/
+├── app/
+│   ├── Helpers/                 # Settings, security, upload & system-info helpers
+│   ├── Http/Controllers/Backend # Admin controllers (articles, menus, ads, ...)
+│   └── Models/                  # Eloquent models
+├── Modules/                     # Self-contained feature modules (e.g. Team)
+├── public/images/screenshots/   # UI screenshots
+├── resources/views/             # Blade templates & layouts
+├── routes/                      # web.php / api.php
+└── database/                    # Migrations & seeders
 ```
 
-### Notifications On Frontend
+---
 
-```jsx
-// docs : https://github.com/CodeSeven/toastr
-*****
-You have To put alert in scripts section
-// @yield('scripts')
-*****
-// Display a warning toast, with no title
-toastr.warning('My name is Inigo Montoya. You killed my father, prepare to die!')
+## 🤝 Contributing
 
-// Display a success toast, with a title
-toastr.success('Have fun storming the castle!', 'Miracle Max Says')
+Contributions are welcome! Please read [`CONTRIBUTING.md`](CONTRIBUTING.md) and the [Code of Conduct](CODE_OF_CONDUCT.md), then open an [issue](https://github.com/morpheusadam/rtl-dashboard/issues) or submit a pull request.
 
-// Display an error toast, with a title
-toastr.error('I do not think that word means what you think it means.', 'Inconceivable!')
+## 📜 License
 
-// Immediately remove current toasts without using animation
-toastr.remove()
+Distributed under the **MIT License**. See [`LICENSE.md`](LICENSE.md) for details.
 
-// Remove current toasts using animation
-toastr.clear()
+---
 
-// Override global options
-toastr.success('We do have the Kapua suite available.', 'Turtle Bay Resort', {timeOut: 5000})
-```
+## ⭐ Star History
 
-### Notification to [ 'dashboard' , 'email' ]
+<a href="https://star-history.com/#morpheusadam/rtl-dashboard&Date">
+  <img src="https://api.star-history.com/svg?repos=morpheusadam/rtl-dashboard&type=Date" alt="Star History Chart" width="600" />
+</a>
 
-```jsx
-(new \MainHelper)->notify_user([
-      'user_id'=>2,
-      'message'=>"محتوى الإشعار" ,
-      'url'=>"http://example.com",
-			'methods'=>['database','mail']
-]);
-```
+---
 
-### Editor with and without file-explorer
+<div align="center">
 
-```jsx
-<textarea type="text" name="description" required minlength="3" maxlength="10000" class="form-control editor with-file-explorer" ></textarea>
-<textarea type="text" name="description" required minlength="3" maxlength="10000" class="form-control editor"  ></textarea>
-```
+### 👤 Author — Morpheus Adam
 
-### Upload Files
+Web developer & cheerful hacker · PHP · Laravel · Go
 
-```php
-#Upload File
-$this->store_file([
-    'source'=>$request->file,
-    'validation'=>"image",
-    'path_to_save'=>'/uploads/users/',
-    'type'=>'AVATAR', 
-    'user_id'=>\Auth::user()->id,
-    'resize'=>[500,3000],
-    'small_path'=>'small/',
-    'visibility'=>'PUBLIC',
-    'file_system_type'=>env('FILESYSTEM_DRIVER'),
-    'watermark'=>true,
-    'optimize'=>true,
-])['filename'];
+<p>
+  <a href="https://github.com/morpheusadam"><img src="https://img.shields.io/badge/GitHub-morpheusadam-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://sam.zeonic.me"><img src="https://img.shields.io/badge/Website-sam.zeonic.me-4c1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="mailto:morpheusadam95@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-#Use File
-$this->use_hub_file('file_name','type_id','user_id');
-#use multiple files
-$uploaded_files=json_decode($request["fileuploader-list-attachment"]);
-$attachments=[];foreach($uploaded_files as $uploaded_file)array_push($attachments, $uploaded_file->file);
-foreach($attachments as $attachment)
-     $this->use_hub_file($attachment, $item->id, auth()->user()->id);
+⭐ **If this dashboard helped you, consider giving it a star!** ⭐
 
-#Remove File
-$this->remove_hub_file('file_name');
-```
-
-### Drag And Drop Feature
-
-```php
-# You have to use this code inside @section('scripts')
-
-#for single upload
-@include('admin.templates.dropzone',[
-		'selector'=>'#file-uploader-nafezly-main',
-		'url'=> route('admin.upload.file'),
-		'method'=>'POST',
-		'remove_url'=>route('admin.upload.remove-file'),
-		'remove_method'=>'POST',
-		'enable_selector_after_upload'=>'#submitEvaluation',
-		'max_files'=>1,
-		'max_file_size'=>'50',
-		'accepted_files'=>"['image/*']"
-])
-
-#for multiplue uploads
-@include('admin.templates.dropzone',[
-		'selector'=>'#file-uploader-nafezly-second',
-		'url'=> route('admin.upload.file'),
-		'method'=>'POST',
-		'remove_url'=>route('admin.upload.remove-file'),
-		'remove_method'=>'POST',
-		'enable_selector_after_upload'=>'#submitEvaluation',
-		'max_files'=>100,
-		'max_file_size'=>'50',
-		'accepted_files'=>"['image/*']"
-])
-
-```
-
-```jsx
-/* You have To import this code inside */
-
-/*for single upload*/
-<div class="col-12  px-0 mt-2 px-0">
-    <div class="col-12 mt-2" style="overflow: hidden">
-        <div class="col-12 px-0" id="file-uploader-nafezly-main">
-            <input type="hidden" disabled class="file-uploader-uploaded-files">
-				    <input name="attachment" type="file" multiple class="file-uploader-files" data-fileuploader-files="" style="opacity: 0" />
-							<!--
-							# for rendering old uploaded files 
-							<input name="attachment" type="file" multiple class="file-uploader-files" data-fileuploader-files='@include('site-templates.uploaded-files-array',['files'=>$item->uploaded_files()])' style="opacity: 0" />
-							# uploaded_files => is a laravel collection 
-							-->
-        </div> 
-    </div>
- </div>
-
-/*for multiple uploads*/
-<div class="col-12  px-0 mt-2 px-0">
-    <div class="col-12 mt-2" style="overflow: hidden">
-        <div class="col-12 px-0" id="file-uploader-nafezly-second">
-           <input type="hidden" disabled class="file-uploader-uploaded-files">
-				   <input name="attachment" type="file" multiple class="file-uploader-files" data-fileuploader-files="" style="opacity: 0" />
-						<!--
-							# for rendering old uploaded files 
-							<input name="attachment" type="file" multiple class="file-uploader-files" data-fileuploader-files='@include('site-templates.uploaded-files-array',['files'=>$item->uploaded_files()])' style="opacity: 0" />
-							# uploaded_files => is a laravel collection 
-							-->
-        </div>
-    </div>
- </div>
-```
-
-### Fancybox
-
-```jsx
-/* Just Add this Tag To image */
-<img src="" data-fancybox />
-
-/* Every image inside this class "data-fancybox" will be converted to fancy */
-<div class="fancybox">
-		<img src="" />
 </div>
-```
-
-### Configrations .env
-
-```jsx
-FILESYSTEM_DRIVER=local
-STORAGE_BASE=/storage
-STORAGE_URL="${STORAGE_BASE}"
-
-DEFAULT_IMAGE="${APP_URL}/images/default/image.jpg"
-DEFAULT_IMAGE_FAVICON="${APP_URL}/images/default/favicon.png"
-DEFAULT_IMAGE_AVATAR="${APP_URL}/images/default/avatar.png"
-DEFAULT_IMAGE_LOGO="${APP_URL}/images/default/logo.png"
-DEFAULT_IMAGE_WIDELOGO="${APP_URL}/images/default/wide-logo.png"
-DEFAULT_IMAGE_COVER="${APP_URL}/images/default/cover.png"
-DEFAULT_IMAGE_NOTIFICATION="${APP_URL}/images/default/notification.png"
-
-DEFAULT_EMAIL=admin@admin.com
-DEFAULT_PASSWORD=password
-```
-
-### Validate Form
-
-```jsx
-/* just add this id  to form like this */
-<form id="validate-form"></form>
-
-/*or add this code to the end of the page */
-
-<form id="custom-validation"></form>
-@section('content')
-<script type="text/javascript">
-	$("#custom-validation").validate();
-</script>
-@endsection
-```
-
-### Controlling Accessibility To files Viewer
