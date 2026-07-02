@@ -1,7 +1,5 @@
 <div align="center">
-
-# 📊 RTL Dashboard
-
+# 📊 RTL Forge
 ### A fully responsive, feature-rich Laravel admin dashboard built for right-to-left (RTL) languages — Arabic, Persian, and Hebrew.
 
 <p>
