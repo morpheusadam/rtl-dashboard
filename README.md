@@ -5,11 +5,11 @@
 ### A fully responsive, feature-rich Laravel admin dashboard built for right-to-left (RTL) languages — Arabic, Persian, and Hebrew.
 
 <p>
-  <img src="https://img.shields.io/github/license/morpheusadam/rtl-dashboard?style=for-the-badge&color=4c1" alt="License" />
-  <img src="https://img.shields.io/github/stars/morpheusadam/rtl-dashboard?style=for-the-badge&color=ffca28" alt="Stars" />
-  <img src="https://img.shields.io/github/forks/morpheusadam/rtl-dashboard?style=for-the-badge&color=42a5f5" alt="Forks" />
-  <img src="https://img.shields.io/github/last-commit/morpheusadam/rtl-dashboard?style=for-the-badge&color=8e44ad" alt="Last commit" />
-  <img src="https://img.shields.io/github/repo-size/morpheusadam/rtl-dashboard?style=for-the-badge&color=e67e22" alt="Repo size" />
+  <img src="https://img.shields.io/github/license/morpheusadam/RtlForge?style=for-the-badge&color=4c1" alt="License" />
+  <img src="https://img.shields.io/github/stars/morpheusadam/RtlForge?style=for-the-badge&color=ffca28" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/morpheusadam/RtlForge?style=for-the-badge&color=42a5f5" alt="Forks" />
+  <img src="https://img.shields.io/github/last-commit/morpheusadam/RtlForge?style=for-the-badge&color=8e44ad" alt="Last commit" />
+  <img src="https://img.shields.io/github/repo-size/morpheusadam/RtlForge?style=for-the-badge&color=e67e22" alt="Repo size" />
 </p>
 
 <p>
@@ -165,7 +165,7 @@ rtl-dashboard/
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please read [`CONTRIBUTING.md`](CONTRIBUTING.md) and the [Code of Conduct](CODE_OF_CONDUCT.md), then open an [issue](https://github.com/morpheusadam/rtl-dashboard/issues) or submit a pull request.
+Contributions are welcome! Please read [`CONTRIBUTING.md`](CONTRIBUTING.md) and the [Code of Conduct](CODE_OF_CONDUCT.md), then open an [issue](https://github.com/morpheusadam/RtlForge/issues) or submit a pull request.
 
 ## 📜 License
 
@@ -175,8 +175,8 @@ Distributed under the **MIT License**. See [`LICENSE.md`](LICENSE.md) for detail
 
 ## ⭐ Star History
 
-<a href="https://star-history.com/#morpheusadam/rtl-dashboard&Date">
-  <img src="https://api.star-history.com/svg?repos=morpheusadam/rtl-dashboard&type=Date" alt="Star History Chart" width="600" />
+<a href="https://star-history.com/#morpheusadam/RtlForge&Date">
+  <img src="https://api.star-history.com/svg?repos=morpheusadam/RtlForge&type=Date" alt="Star History Chart" width="600" />
 </a>
 
 ---
